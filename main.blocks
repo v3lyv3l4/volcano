@@ -1,0 +1,55 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="f8uFM}?NV5{DAG6m|Mjp" x="79" y="258"><statement name="HANDLER"><block type="controls_repeat_ext" id=";T}js_Bm%slt197N3F`5"><comment pinned="true" h="80" w="160">Magma subiendo por el volcán</comment><value name="TIMES"><shadow type="math_whole_number" id="ku~mz@DWhntC4C3hzgYS"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="K)(uih/Na-CNJ2H+nA)p"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_pause" id="B37LJL/s@0*.gbr1E`b1"><value name="pause"><shadow type="timePicker" id="/C-6[0?%oo*WXOr_V!,q"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="!IgbM=1([WU+Kmt4?1#V"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="~/b_fYavK2ZM/fGI%,AG"><value name="pause"><shadow type="timePicker" id="nOs}F9g{mcqV]S4X-?.f"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="dP^m=}t]WXEG.na`ti75"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="{YH{cuiw2N_XmIv5RF1?"><value name="pause"><shadow type="timePicker" id=":f}u-Kyx.8)gA?}fO7n*"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="G0*5bIm*$e$Hy0-2d~nJ"><field name="LEDS">`
+        # . . . # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="M*Sb6R8qQt,OzY~QZP}_"><value name="pause"><shadow type="timePicker" id="V1FU42nqkp{Qw|%Msk{U"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="hQc;MrDWk?NAAda9wG/#"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id=";]:(]1*dG/B#d#%4$f]:"><value name="pause"><shadow type="timePicker" id="lntIVEjZjUHgs0[#MyE/"><field name="ms">250</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement><next><block type="controls_repeat_ext" id="EAG;uxStu7z8!hHf`shB"><comment pinned="true" h="80" w="160">Erupción del volcán</comment><value name="TIMES"><shadow type="math_whole_number" id="V,b|M!nPc2M|n/t+:@b{"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="NN~FM#JM{@B94L-rF?uF"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="nB|JT9F.[?Ct5o4gwkhY"><value name="pause"><shadow type="timePicker" id=":jj~Mjg[mP8`9.1H:1Xf"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="K8p?^e)ftpG`_JJn:Br4"><field name="LEDS">`
+        # . # . # 
+        . . # . . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="|/z7{QdO7m!]bV;FpKrO"><value name="pause"><shadow type="timePicker" id="rZ^aXi`l;HWJuvm1}eLe"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="!A;,mr+SV:-hu1XwGM_y"><field name="LEDS">`
+        . # # # . 
+        . . . . . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="a_*4^(+7MGa?l)#Kd36Q"><value name="pause"><shadow type="timePicker" id="Us1/RxS4HBXhLV#A.CD["><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="UT1JMiTJQhf5!-K;=5)B"><field name="LEDS">`
+        # # # # # 
+        . . . . . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="o$1C|$iN.|%l7XH[oBi!"><value name="pause"><shadow type="timePicker" id=")}HH.y*](gu5o03@y)u8"><field name="ms">250</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></next></block></statement></block></xml>
